@@ -11,3 +11,7 @@ haarcascade_frontalface_default.xml
 are the required to paste in the directory of the present console where the code is running
 
 They are taken to train the model to identify faces and eyes respectively
+
+if the code is not working then you can contact me through the mail rkraj1452@gmail.com
+
+Thank you
